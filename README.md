@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **Android Studio**
 - 🧑‍🎓 I’m an Undergraduate at **NIBM**
 - 💬 Ask me about **JAVA**
-- 📫 Reach me at **venurivimandya@gmail.com** or [www.linkedin.com/in/vimandya-gunawardhana-49225735a](#)  
+- 📫 Reach me at **venurivimandya@gmail.com** or [www.linkedin.com/in/vimandya-gunawardhana](#)  
 
 - ⚡ Fun fact **I can debug code better at midnight than during the day!**
 
